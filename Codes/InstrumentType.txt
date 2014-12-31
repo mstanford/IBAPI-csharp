@@ -1,0 +1,7 @@
+STK,Stock
+OPT,Option
+FUT,Future
+FOP,FutureOption
+IND,Index
+CASH,Forex
+BAG,Bond
